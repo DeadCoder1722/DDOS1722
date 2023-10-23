@@ -2,7 +2,7 @@
 # Installation TEAM1722
 ```pkg update && pkg upgrade
 
-git clone https://github.com/TermuxHackz/Hammer
+git clone (https://github.com/DeadCoder1722/DDOS1722)
 
 cd Team1722
 
